@@ -16,7 +16,8 @@ To create a community where every member can **code creatively, build responsive
 
 
 ## 👁️ Vision
-Building the web creators of tomorrow
+Building the web creators of tomorrow.
+
 ---
 
 
