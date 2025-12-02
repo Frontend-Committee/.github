@@ -1,7 +1,7 @@
 # ⭐ Star Union Frontend Community
 
 <center>
-  <img src="./WhatsApp Image 2025-12-02 at 19.36.51_2e89227e.jpg" width="100%" />
+  <img src="./Background SU.jpg" width="100%" />
 </center>
 
 ---
