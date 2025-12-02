@@ -16,8 +16,7 @@ To create a community where every member can **code creatively, build responsive
 
 
 ## 👁️ Vision
-To become the leading university frontend hub in Egypt, producing skilled UI engineers, innovative web experiences, and industry-ready developers.
-
+Building the web creators of tomorrow
 ---
 
 
